@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DesarrolloAplicaciones_Equipo24/static/css/main.b155cdb2.css",
+    "main.js": "/DesarrolloAplicaciones_Equipo24/static/js/main.3df9dca2.js",
+    "static/js/787.fa6cd82a.chunk.js": "/DesarrolloAplicaciones_Equipo24/static/js/787.fa6cd82a.chunk.js",
+    "index.html": "/DesarrolloAplicaciones_Equipo24/index.html",
+    "main.b155cdb2.css.map": "/DesarrolloAplicaciones_Equipo24/static/css/main.b155cdb2.css.map",
+    "main.3df9dca2.js.map": "/DesarrolloAplicaciones_Equipo24/static/js/main.3df9dca2.js.map",
+    "787.fa6cd82a.chunk.js.map": "/DesarrolloAplicaciones_Equipo24/static/js/787.fa6cd82a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b155cdb2.css",
+    "static/js/main.3df9dca2.js"
+  ]
+}
