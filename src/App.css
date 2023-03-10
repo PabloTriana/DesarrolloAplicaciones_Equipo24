@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  
+}
+.App {
+  text-align: center;
+}
+/* Componente Header */
+.logo{
+  width: 200px;
+  height: 150px;
+}
+.componenteH{
+ background-color: white;
+}
+/* Componente Baner */
+.componenteB{
+  height: 7vmin;
+  background-color: #22232b;
+}
+.titulo{
+  color:whitesmoke;
+}
+.subtitulo{
+  color: whitesmoke;
+}
+/* Componente Body */
+.componenteBo{
+  background-color: whitesmoke;
+  height: 50vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #22232b;
+  
+}
+.boton {
+  background-color: #35363f;
+  border: none;
+  border-radius: 1rem;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 60px;
+}
+.boton:hover {opacity: 1}
+/* Componente Footer */
+.componenteF{
+  height: 12.5vmin;
+  background-color:#22232b;
+  color: white;
+}
